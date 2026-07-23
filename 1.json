@@ -2,7 +2,7 @@
 //配置方法：打开软件-设置-配置地址-粘帖此配置地址-返回主页完成
 //本接口免费使用，仅供软件测试使用，请勿商业用途。
 {
-  "spider": "./jar/jinenge.jar;md5;9cc29f6286b2fe7910628852929c4bdb",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/adminouyang/231006/main/tvbox/gao/jar/XYQ.jar",
   "wallpaper": "https://tv.jinenyy.vip",
   "sites": [
     {
